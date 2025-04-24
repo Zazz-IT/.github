@@ -1,7 +1,7 @@
 # 🌟 Welcome to the Zazz Tech Hub 🌟 <img src="logo.png" alt="Zazz Logo" width="50"/>
 
 
-This GitHub space is where **tech meets talent** — a vibrant platform by **Zazz**, a Staff Augmentation-first powerhouse, helping elite teams scale with top-tier engineers across **LATAM and beyond**. But we’re not just about placements — we’re about **empowering the next generation of DevOps professionals**.
+This GitHub space is where **tech meets talent** — a vibrant platform by **Zazz**, a Staff Augmentation-first powerhouse, helping elite teams scale with top-tier engineers across **LATAM and beyond**. But we’re not just about placements — we’re about **empowering the next generation of professionals**.
 
 ---
 
