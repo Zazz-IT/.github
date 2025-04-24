@@ -7,16 +7,16 @@ This GitHub space is where **tech meets talent** — a vibrant platform by **Zaz
 
 ## 🚀 What You’ll Find Here
 
-### 🔧 DevOps DeepDive  
+### 👉 DevOps DeepDive  
 From CI/CD pipelines to real-world cloud scaling challenges, our repositories reflect how DevOps works **in the wild**.
 
-### 💼 Job-Ready Repositories  
+### 👉 Job-Ready Repositories  
 Sample projects, automation scripts, and boilerplates designed to **showcase skills** and kickstart your career journey.
 
-### 📘 Career Insights  
+### 👉 Career Insights  
 Real-world advice, guides, and interview prep material curated by engineers, for engineers.
 
-### 🤝 Open Contributions  
+### 👉 Open Contributions  
 We believe in the power of community. Found a bug? Got a better solution? **Fork it, fix it, and let's build together.**
 
 ---
@@ -31,10 +31,10 @@ We believe in the power of community. Found a bug? Got a better solution? **Fork
 
 ## 🎯 Why Zazz?
 
-- 🌎 LATAM's leading Staff Augmentation experts  
-- 🧠 Tech-led culture built on transparency and trust  
-- 🚀 Projects across Fortune 500s and disruptive startups  
-- 🤝 Real collaboration, not just contract placements
+ ✧ LATAM's leading Staff Augmentation experts  
+ ✧ Tech-led culture built on transparency and trust  
+ ✧ Projects across Fortune 500s and disruptive startups  
+ ✧ Real collaboration, not just contract placements
 
 ---
 
@@ -47,5 +47,5 @@ We believe in the power of community. Found a bug? Got a better solution? **Fork
 
 ---
 
-> “At Zazz, we don’t just find you a job — we **amplify your career**.”
+> At Zazz, we don’t just find you a job — we **amplify your career**.
 
